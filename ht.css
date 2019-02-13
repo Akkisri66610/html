@@ -1,0 +1,48 @@
+body
+{
+  background-color: lightblue;
+  background-image: url("rain.jpg"); /* background image */
+  background-repeat: no-repeat;
+}
+/* colors */
+h1.fav
+{
+  background: Tomato;
+  color: SlateBlue;
+  padding-left: 20px;
+}
+p.intro
+{
+  background: LightGray;
+  color: MediumSeaGreen;
+  padding-left: 20px;
+}
+p.intro2
+{
+  background: #00ffff;
+  color: black;
+  padding-left: 20px;
+}
+p.intro3
+{
+  background: #a6ff4d;
+  color: white;
+  padding-left: 20px;
+}
+/* borders */
+#akash
+{
+  border-style: solid;
+  border-radius: 5px;
+  border-color: red;
+  padding-left: 20px;
+}
+.older
+{
+  margin-top: 45px;
+}
+.forest
+{
+  width: 350px;
+  height: 350px;
+}
